@@ -1,0 +1,14 @@
+{
+    "action_items": [
+        {
+            "assignee": "רונית",
+            "action": "בדיקת UX והצעת wireframes לערכת פירות וירקות לשלט רחוק",
+            "deadline": "יום חמישי הבא"
+        },
+        {
+            "assignee": "רונית",
+            "action": "התחלת integration עם ה-API החדש",
+            "deadline": "שבוע הבא"
+        }
+    ]
+}

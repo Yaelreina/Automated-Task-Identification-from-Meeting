@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "דנה",
+            "action": "לעצב סקיצה ראשונית של השלט רחוק",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "דנה",
+            "action": "לשלוח הזמנת פגישה לשבוע הבא",
+            "deadline": "מיידי"
+        },
+        {
+            "assignee": "דנה",
+            "action": "להכין בדיקות User Interface לאחר אישור סקיצה",
+            "deadline": "לאחר אישור סקיצה"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לתכנן A/B Testing עבור העיצוב",
+            "deadline": "ללא תאריך ספציפי"
+        }
+    ]
+}

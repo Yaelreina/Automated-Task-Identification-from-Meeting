@@ -1,0 +1,19 @@
+{
+    "action_items": [
+        {
+            "assignee": "גבי",
+            "action": "לבדוק את ה-CAD models ולשלב אלמנטים",
+            "deadline": "שבוע הבא"
+        },
+        {
+            "assignee": "רון",
+            "action": "עבוד על ה-wireframes והצג בפגישה הבאה",
+            "deadline": "יום חמישי הבא"
+        },
+        {
+            "assignee": "מירי",
+            "action": "בדוק אפשרויות ל-3D printing וקבע פגישת עדכון",
+            "deadline": "שבוע הבא"
+        }
+    ]
+}

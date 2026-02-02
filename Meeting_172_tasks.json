@@ -1,0 +1,19 @@
+{
+    "action_items": [
+        {
+            "assignee": "דני",
+            "action": "לכתוב את הממשק ל-API",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לעבוד על ההתראות למשתמש במצב סוללה נמוכה",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לפיתוח ה-Unit Tests",
+            "deadline": "ספרינט הבא"
+        }
+    ]
+}

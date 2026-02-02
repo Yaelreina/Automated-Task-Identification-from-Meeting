@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "יעל",
+            "action": "Create a presentation for the clients",
+            "deadline": "יום שני בבוקר"
+        },
+        {
+            "assignee": "רמי",
+            "action": "Develop a prototype for the UI",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "דני",
+            "action": "Check the API endpoints",
+            "deadline": "היום אחר הצהריים"
+        },
+        {
+            "assignee": "יעל",
+            "action": "Update the documentation",
+            "deadline": "ללא תאריך ספציפי"
+        }
+    ]
+}
