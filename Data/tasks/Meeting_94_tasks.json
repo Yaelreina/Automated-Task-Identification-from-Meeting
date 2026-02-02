@@ -1,0 +1,29 @@
+{
+    "action_items": [
+        {
+            "assignee": "דני",
+            "action": "review על ה-feedback שהתקבל",
+            "deadline": "סוף החודש"
+        },
+        {
+            "assignee": "נועה",
+            "action": "עבודה על wireframes חדשים",
+            "deadline": "סוף החודש"
+        },
+        {
+            "assignee": "דני",
+            "action": "הכנת ה-sprint backlog ועדכון JIRA",
+            "deadline": "סוף החודש"
+        },
+        {
+            "assignee": "נועה",
+            "action": "עדכון ה-design team על השינויים",
+            "deadline": "מחר"
+        },
+        {
+            "assignee": "אורי",
+            "action": "תיאום עם HR לגבי testers",
+            "deadline": "סוף החודש"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "action_items": [
+        {
+            "assignee": "דני",
+            "action": "הכנת mockup לצבעים החדשים",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "דני",
+            "action": "בדיקת קודקים חדשים ופתרון בעיות Real Media",
+            "deadline": "סוף השבוע"
+        }
+    ]
+}

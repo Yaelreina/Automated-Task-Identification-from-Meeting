@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "רותם",
+            "action": "סקירה מלאה של ההיפנות ולהבטיח עקביות",
+            "deadline": "היום בערב"
+        },
+        {
+            "assignee": "רותם",
+            "action": "ביצוע הערכה של תהליך ה-Data Analysis",
+            "deadline": "מחר בבוקר"
+        },
+        {
+            "assignee": "רותם",
+            "action": "חקר האפשרות להוסיף Themes חדשים",
+            "deadline": "בשבוע הבא"
+        },
+        {
+            "assignee": "נועה",
+            "action": "הכנת ושליחת הודעת פרויקט לצוות",
+            "deadline": "מחר בצהריים"
+        }
+    ]
+}

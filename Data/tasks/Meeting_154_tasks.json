@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "מיכל",
+            "action": "להעריך את תכונות המוצר ולקבוע החלטות סופיות",
+            "deadline": "ללא תאריך"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לבדוק את ה-security measures",
+            "deadline": "יום שלישי הבא"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לסיים את ה-database optimization",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "להכין מצגת עם ה-features הסופיים",
+            "deadline": "מחר"
+        }
+    ]
+}

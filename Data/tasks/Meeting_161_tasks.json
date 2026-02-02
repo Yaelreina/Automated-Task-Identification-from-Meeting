@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "יובל",
+            "action": "בדיקת השפעת כפתור הליכה קדימה-אחורה על ה-API",
+            "deadline": "שבוע הבא"
+        },
+        {
+            "assignee": "נעם",
+            "action": "בדיקה מעמיקה על שימוש ב-React Virtualized לשיפור הביצועים",
+            "deadline": "מחר"
+        },
+        {
+            "assignee": "עדי",
+            "action": "הכנת דוח על השפעת שימוש ב-IndexedDB על ה-Latency",
+            "deadline": "שבוע הבא"
+        },
+        {
+            "assignee": "דני",
+            "action": "בניית Mockup ראשוני לכפתור הליכה קדימה-אחורה",
+            "deadline": "שבוע הבא"
+        }
+    ]
+}

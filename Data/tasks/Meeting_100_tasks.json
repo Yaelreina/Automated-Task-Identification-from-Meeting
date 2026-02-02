@@ -1,0 +1,14 @@
+{
+    "action_items": [
+        {
+            "assignee": "נועה",
+            "action": "Testing יושלם",
+            "deadline": "סוף החודש"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "Backend Integration יושלם",
+            "deadline": "יום רביעי הבא"
+        }
+    ]
+}

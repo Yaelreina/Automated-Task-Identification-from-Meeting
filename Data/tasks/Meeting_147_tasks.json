@@ -1,0 +1,19 @@
+{
+    "action_items": [
+        {
+            "assignee": "יוסי",
+            "action": "להתאים את react components לעיצוב שמאלני וימני",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לבצע בדיקת accessibility על השינויים",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "להריץ unit tests על ה-react components אחרי השינויים",
+            "deadline": "סוף השבוע"
+        }
+    ]
+}

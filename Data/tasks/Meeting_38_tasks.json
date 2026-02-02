@@ -1,0 +1,14 @@
+{
+    "action_items": [
+        {
+            "assignee": "הילה",
+            "action": "נוודא חומרים רכים לכפתורים",
+            "deadline": "15/10/2023"
+        },
+        {
+            "assignee": "הילה",
+            "action": "בדיקת database performance",
+            "deadline": "16/10/2023"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "action_items": [
+        {
+            "assignee": "שירה",
+            "action": "לעבור על עיצוב השלט עם המעצבת",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "יואב",
+            "action": "לשלוח את ההצעה הסופית לכולם",
+            "deadline": "סוף היום"
+        },
+        {
+            "assignee": "יואב",
+            "action": "להכין wireframe לחיפוש אוטומטי",
+            "deadline": "מחר"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "עינת",
+            "action": "לבדוק את התיעוד של N_X_T_ ולהביא הבהרות",
+            "deadline": "מחר בבוקר"
+        },
+        {
+            "assignee": "אורי",
+            "action": "לסמן באגים ב-JIRA",
+            "deadline": "היום"
+        },
+        {
+            "assignee": "עינת",
+            "action": "לסיים את כל הבדיקות לפני ה-Deployment",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לוודא שכל המידע מעודכן לקראת ה-Deployment",
+            "deadline": "יום חמישי בערב"
+        }
+    ]
+}

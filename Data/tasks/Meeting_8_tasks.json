@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "דנה",
+            "action": "לתכנן A/B testing",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לבדוק את נתוני השוק ולשתף מסקנות",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "דנה",
+            "action": "לאסוף User feedback באמצעות קבוצת מיקוד",
+            "deadline": "יום שני"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לסייע למיכל בניתוח נתונים כמותיים",
+            "deadline": "יום רביעי"
+        }
+    ]
+}

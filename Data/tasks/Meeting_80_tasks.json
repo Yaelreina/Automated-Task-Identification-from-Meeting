@@ -1,0 +1,54 @@
+{
+    "action_items": [
+        {
+            "assignee": "יוסי",
+            "action": "להכין את הסקר ולהפיץ אותו ב-Email",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לארגן את ה-Workshops ולמצוא מומחה מתאים",
+            "deadline": "סוף החודש"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לעבוד על הסקר, לשלוח את התוצאות ולעשות ישיבת Follow-up",
+            "deadline": "עוד שבועיים"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לשאול את מחלקת ה-HR לגבי רכישת Standing Desks",
+            "deadline": "לא צוין"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "ליצור קשר עם ספקי תוכנות לניהול הפסקות",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לתאם פגישה עם ה-Facility Manager",
+            "deadline": "תחילת השבוע הבא"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לעדכן את ה-Trello Board עם כל המשימות",
+            "deadline": "לא צוין"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "להכין את המצגת לפגישה הבאה",
+            "deadline": "לא צוין"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "להכין את הנתונים מהסקר כדי להציג אותם",
+            "deadline": "לא צוין"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לזכור להזכיר לכולם על הישיבה הקרובה",
+            "deadline": "לא צוין"
+        }
+    ]
+}

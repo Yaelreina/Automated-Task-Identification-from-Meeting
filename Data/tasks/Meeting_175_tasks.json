@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "דוד",
+            "action": "לנתח את עלויות הייצור",
+            "deadline": "יום ראשון"
+        },
+        {
+            "assignee": "רחל",
+            "action": "לבדוק את ה-SDKs בשוק",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "נועה",
+            "action": "רישום ה-APIs הרלוונטיים",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "דוד",
+            "action": "לעצב wireframe ראשוני למשחק",
+            "deadline": "יום שלישי"
+        }
+    ]
+}

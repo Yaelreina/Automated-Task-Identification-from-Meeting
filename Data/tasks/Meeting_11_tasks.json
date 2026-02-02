@@ -1,0 +1,29 @@
+{
+    "action_items": [
+        {
+            "assignee": "ענת",
+            "action": "לשלב מונחים כמו 'damped Lyman alpha absorption' במצגת הבאה",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "ענת",
+            "action": "לקבוע שלושה צבעים עיקריים לשלט הרחוק",
+            "deadline": "מחר"
+        },
+        {
+            "assignee": "יונתן",
+            "action": "לתכנן תמיכה ב-Bluetooth Low Energy בשדרוג הבא",
+            "deadline": "שבוע הבא"
+        },
+        {
+            "assignee": "יונתן",
+            "action": "להעריך כיווני השמש לנושא הקצאת חדרים",
+            "deadline": "סוף החודש"
+        },
+        {
+            "assignee": "יונתן",
+            "action": "לשלוח סיכום הנקודות לכולם",
+            "deadline": "סוף היום"
+        }
+    ]
+}

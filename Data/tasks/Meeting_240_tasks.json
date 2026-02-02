@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "מיכל",
+            "action": "לבדוק את השימוש ב-Python",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "נועה",
+            "action": "לעבוד על ה-design system",
+            "deadline": "בעוד שבוע"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לעשות performance testing על ה-database",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "נועה",
+            "action": "לעבוד על הפיצ'ר של ה-notifications עם יוסי",
+            "deadline": "בשבוע הבא"
+        }
+    ]
+}

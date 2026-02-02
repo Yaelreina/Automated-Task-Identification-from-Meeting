@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "נועה",
+            "action": "לבדוק את היכולת של voice recognition",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "יונתן",
+            "action": "להכשיר את הצוות לשימוש ב-Slack ו-Trello",
+            "deadline": "יום שני"
+        },
+        {
+            "assignee": "יונתן",
+            "action": "להוביל קמפיינים של פרסום בגוגל",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "נועה",
+            "action": "לבדוק אפשרויות לספקים אחרים ולכמויות גדולות יותר של LCD",
+            "deadline": "יום שלישי"
+        }
+    ]
+}

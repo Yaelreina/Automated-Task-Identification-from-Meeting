@@ -1,0 +1,29 @@
+{
+    "action_items": [
+        {
+            "assignee": "יעל",
+            "action": "איסוף פידבק מהמשתמשים",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "דני",
+            "action": "בדיקת CSS להוספת שיפורים",
+            "deadline": "סוף היום"
+        },
+        {
+            "assignee": "יעל",
+            "action": "בדיקת UI responsiveness על מכשירים ישנים",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "דני",
+            "action": "דיבור עם צוות ה-Backend על API integration",
+            "deadline": "סוף היום"
+        },
+        {
+            "assignee": "יעל",
+            "action": "דיבור עם ליאור על בדיקת QA",
+            "deadline": "סוף היום"
+        }
+    ]
+}

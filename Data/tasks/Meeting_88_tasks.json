@@ -1,0 +1,14 @@
+{
+    "action_items": [
+        {
+            "assignee": "יוסי",
+            "action": "בדיקת ה-Code ושיפור ה-Noise Filtering",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "עדי",
+            "action": "בדיקת ה-Data Set לזיהוי בעיות",
+            "deadline": "יום ראשון"
+        }
+    ]
+}

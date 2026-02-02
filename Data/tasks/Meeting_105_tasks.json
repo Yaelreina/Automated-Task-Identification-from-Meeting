@@ -1,0 +1,14 @@
+{
+    "action_items": [
+        {
+            "assignee": "יעל",
+            "action": "לסיים את בדיקת השימוש ב-Short Text Speaker Identification",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "יעל",
+            "action": "לבדוק את העלות והזמינות של Li-Ion Battery ו-Power Bank",
+            "deadline": "יום שלישי"
+        }
+    ]
+}
