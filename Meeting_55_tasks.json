@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "אורי",
+            "action": "לדבר עם team lead על feasibility study",
+            "deadline": "היום בצהריים"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לעבוד על integration עם ה-API החדש",
+            "deadline": "מחר"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "לסיים את ה-database migration",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "אורי",
+            "action": "להוסיף security protocols לסדר היום",
+            "deadline": "לפני הישיבה הבאה"
+        }
+    ]
+}

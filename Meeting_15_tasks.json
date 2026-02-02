@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "מיכל",
+            "action": "הערכת הפרויקט",
+            "deadline": "יום רביעי הבא"
+        },
+        {
+            "assignee": "דוד",
+            "action": "הדו\"ח הסופי",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "דוד",
+            "action": "דבר עם עומר מהעיצוב",
+            "deadline": "יום שלישי"
+        },
+        {
+            "assignee": "מיכל",
+            "action": "קריאות השלטים",
+            "deadline": "יום חמישי הבא"
+        }
+    ]
+}

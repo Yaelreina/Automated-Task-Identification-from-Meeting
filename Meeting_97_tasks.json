@@ -1,0 +1,34 @@
+{
+    "action_items": [
+        {
+            "assignee": "יעל",
+            "action": "API integration task",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "נועה",
+            "action": "UI/UX design wireframes",
+            "deadline": "היום"
+        },
+        {
+            "assignee": "איתן",
+            "action": "Database optimization",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "דוד",
+            "action": "Prepare presentations for client meeting",
+            "deadline": "יום ראשון בערב"
+        },
+        {
+            "assignee": "נועה",
+            "action": "Organize code review sessions",
+            "deadline": "מחר"
+        },
+        {
+            "assignee": "יעל",
+            "action": "Prepare KPIs document",
+            "deadline": "סוף השבוע"
+        }
+    ]
+}

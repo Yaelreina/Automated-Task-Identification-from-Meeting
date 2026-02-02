@@ -1,0 +1,19 @@
+{
+    "action_items": [
+        {
+            "assignee": "נועה",
+            "action": "בדיקת research על Voice Recognition בשלטים דומים",
+            "deadline": "שבוע הבא"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "ניתוח מתחרים והבאת מידע לישיבה הבאה",
+            "deadline": "שבוע הבא"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "בדיקת טרנדים בשוק והבאת נתונים",
+            "deadline": "שבועיים"
+        }
+    ]
+}

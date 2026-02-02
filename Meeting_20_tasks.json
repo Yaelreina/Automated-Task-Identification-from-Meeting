@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "נועה",
+            "action": "להוביל את המחקר על העדפות הצרכנים לשלטים רחוקים",
+            "deadline": "חמישי הבא"
+        },
+        {
+            "assignee": "דניאל",
+            "action": "להתחיל A/B Testing",
+            "deadline": "שבוע הבא"
+        },
+        {
+            "assignee": "נועה",
+            "action": "לבדוק את הנתונים האנליטיים",
+            "deadline": "חמישי הבא"
+        },
+        {
+            "assignee": "אורי",
+            "action": "לעדכן את הצוות אחרי ניתוח ה-analytics",
+            "deadline": "סוף השבוע"
+        }
+    ]
+}

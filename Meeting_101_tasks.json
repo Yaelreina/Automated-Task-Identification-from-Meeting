@@ -1,0 +1,29 @@
+{
+    "action_items": [
+        {
+            "assignee": "יוסי",
+            "action": "להפיץ את ההצעה הסופית לכולם",
+            "deadline": "היום ב-5 בערב"
+        },
+        {
+            "assignee": "אורן",
+            "action": "ביצוע code review של הפיצ'ר החדש",
+            "deadline": "מחר בצהריים"
+        },
+        {
+            "assignee": "מאיה",
+            "action": "סיום QA testing של האפליקציה",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "סיום API documentation",
+            "deadline": "יום שישי"
+        },
+        {
+            "assignee": "דני",
+            "action": "בדיקה של ה-backup strategy",
+            "deadline": "במהלך השבוע"
+        }
+    ]
+}

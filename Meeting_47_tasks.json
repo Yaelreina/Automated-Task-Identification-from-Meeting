@@ -1,0 +1,19 @@
+{
+    "action_items": [
+        {
+            "assignee": "קנדרה",
+            "action": "התמקדות ב-In-app notifications",
+            "deadline": "סוף השבוע"
+        },
+        {
+            "assignee": "איתי",
+            "action": "סיום API integration",
+            "deadline": "יום חמישי"
+        },
+        {
+            "assignee": "נועה",
+            "action": "עבודה על Database optimization",
+            "deadline": "יום שישי"
+        }
+    ]
+}

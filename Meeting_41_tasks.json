@@ -1,0 +1,34 @@
+{
+    "action_items": [
+        {
+            "assignee": "עדי",
+            "action": "בדוק ספקים לחומרי גלם זולים",
+            "deadline": "השבוע"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לעבור על ה-compatibility של הקובץ המצורף",
+            "deadline": "אין תאריך"
+        },
+        {
+            "assignee": "עדי",
+            "action": "לעבוד על ה-user interface ולהגיש דוח",
+            "deadline": "יום חמישי הבא"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לעבור על ה-security של הקובץ ולדווח בעיות",
+            "deadline": "אין תאריך"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לקבוע פגישה עם הצוות לדון ב-backend scalability",
+            "deadline": "אין תאריך"
+        },
+        {
+            "assignee": "יוסי",
+            "action": "לשלוח הזמנה לפגישה",
+            "deadline": "אין תאריך"
+        }
+    ]
+}

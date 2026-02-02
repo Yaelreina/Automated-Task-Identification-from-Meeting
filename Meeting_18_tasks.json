@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "assignee": "יונתן",
+            "action": "לבדוק את ה-API Compatibility עם הפלטפורמות השונות",
+            "deadline": "יום רביעי"
+        },
+        {
+            "assignee": "נועה",
+            "action": "להכין רשימה של פירות וירקות פופולריים שנוכל לכלול",
+            "deadline": "יום רביעי"
+        },
+        {
+            "assignee": "אורי",
+            "action": "לבדוק את היכולת לשלב את זה עם ה-Current Framework",
+            "deadline": "יום רביעי"
+        },
+        {
+            "assignee": "יונתן",
+            "action": "לקבוע את המפגש הבא ליום חמישי הבא ב-10:00",
+            "deadline": "יום חמישי"
+        }
+    ]
+}
