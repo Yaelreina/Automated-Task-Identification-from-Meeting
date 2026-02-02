@@ -1,0 +1,25 @@
+# --- Synthetic Data Generation (OpenAI) ---
+openai
+
+# --- Core ML & Unsloth ---
+# Note: Unsloth installation depends on your GPU/CUDA version. 
+# It is recommended to install it directly from their GitHub instructions.
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+torch
+xformers
+trl
+transformers
+
+# --- Data Processing & Visualization ---
+pandas
+numpy
+matplotlib
+datasets
+tqdm
+
+# --- Evaluation & Metrics ---
+sentence-transformers
+deep-translator
+rapidfuzz
+scipy
+scikit-learn
