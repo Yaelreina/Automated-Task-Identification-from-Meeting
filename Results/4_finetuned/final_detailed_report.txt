@@ -1,0 +1,63 @@
+
+ FINAL MULTI-METRIC REPORT
+============================
+1. Assignee Accuracy (Fuzzy Match): 56.7%
+2. Action Semantic Similarity:      59.3%
+3. Deadline Accuracy (Soft Match):  35.1%
+
+
+--- LOGS ---
+
+Sample 1: Assig=60.0%, Act=59.9%, Dead=0.0%
+
+Sample 2: Assig=75.0%, Act=59.2%, Dead=25.0%
+
+Sample 3: Assig=66.7%, Act=50.6%, Dead=50.0%
+
+Sample 4: Assig=75.0%, Act=57.0%, Dead=75.0%
+
+Sample 5: Assig=40.0%, Act=40.6%, Dead=20.0%
+
+Sample 6: Assig=100.0%, Act=76.8%, Dead=40.0%
+
+Sample 7: Assig=100.0%, Act=77.1%, Dead=100.0%
+
+Sample 10: Assig=50.0%, Act=40.9%, Dead=0.0%
+
+Sample 11: Assig=66.7%, Act=49.4%, Dead=0.0%
+
+Sample 12: Assig=83.3%, Act=88.8%, Dead=83.3%
+
+Sample 13: Assig=50.0%, Act=64.2%, Dead=0.0%
+
+Sample 14: Assig=75.0%, Act=72.9%, Dead=0.0%
+
+Sample 15: Assig=0.0%, Act=61.4%, Dead=0.0%
+
+Sample 16: Assig=66.7%, Act=50.1%, Dead=33.3%
+
+Sample 17: Assig=25.0%, Act=67.4%, Dead=0.0%
+
+Sample 18: Assig=100.0%, Act=79.9%, Dead=100.0%
+
+Sample 19: Assig=33.3%, Act=24.9%, Dead=0.0%
+
+Sample 20: Assig=50.0%, Act=34.5%, Dead=50.0%
+
+Sample 21: Assig=75.0%, Act=88.6%, Dead=50.0%
+
+Sample 22: Assig=71.4%, Act=64.3%, Dead=42.9%
+
+Sample 23: Assig=66.7%, Act=78.4%, Dead=100.0%
+
+Sample 25: Assig=16.7%, Act=44.4%, Dead=50.0%
+
+Sample 26: Assig=75.0%, Act=58.9%, Dead=75.0%
+
+Sample 27: Assig=60.0%, Act=52.9%, Dead=20.0%
+
+Sample 28: Assig=0.0%, Act=33.8%, Dead=0.0%
+
+Sample 29: Assig=0.0%, Act=39.3%, Dead=33.3%
+
+Sample 30: Assig=50.0%, Act=85.2%, Dead=0.0%

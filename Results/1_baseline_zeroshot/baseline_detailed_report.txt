@@ -1,0 +1,8 @@
+
+ BASELINE MULTI-METRIC REPORT
+===============================
+(Evaluated using: Hungarian Matching + AlephBERT + Translation + Robust Parsing)
+
+1. Assignee Accuracy: 1.1%
+2. Action Similarity: 0.9%
+3. Deadline Accuracy: 0.0%
